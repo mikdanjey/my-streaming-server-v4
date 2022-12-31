@@ -21,3 +21,5 @@ Install Nodejs 16.x LTS
 * ./start.sh
 
 
+Add the Addon:
+https:// <cloud-url> /local-addon/manifest.json
