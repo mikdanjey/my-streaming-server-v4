@@ -1,0 +1,8 @@
+
+POST https:// <cloud-url> /94a5f4ac911a35674c8761177026eeb651a32d74/create
+
+GET https:// <cloud-url> /local-addon/meta/other/bt%3A94a5f4ac911a35674c8761177026eeb651a32d74.json
+
+Add the Addon:
+
+https:// <cloud-url> /local-addon/manifest.json
