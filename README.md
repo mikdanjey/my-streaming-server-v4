@@ -11,6 +11,6 @@ Install Nodejs 16.x LTS
 * wget https://dl.strem.io/four/master/server.js
 * wget https://dl.strem.io/four/master/stremio.asar
 
-chmod +x start.sh
+* chmod +x start.sh
 
-./start.sh
+* ./start.sh
