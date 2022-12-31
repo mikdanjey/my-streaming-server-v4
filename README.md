@@ -21,3 +21,6 @@ git clone https://github.com/mikdanjey/my-streaming-server-v4.git my-streaming-s
 
 ## Add the Addon:
 * https:// <cloud-url> /local-addon/manifest.json
+
+  
+ * magnet:?xt=urn:btih:94a5f4ac911a35674c8761177026eeb651a32d74
