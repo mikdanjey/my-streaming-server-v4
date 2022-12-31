@@ -2,9 +2,9 @@
 
 git clone https://github.com/mikdanjey/stremio-streaming-server-v4.git stremio-streaming-server-v4
 
-## Step up target Ubuntu
+## Step up target on ubuntu
 
-Install Nodejs 16.x LTS
+-- Install Nodejs 16.x LTS
 
 * sudo apt install openssl wget ffmpeg
 
@@ -13,13 +13,11 @@ Install Nodejs 16.x LTS
 
 * chmod +x start.sh
 
-
-
 * nano /home/ubuntu/.stremio-server/server-settings.json
 * rm -rf /home/ubuntu/.stremio-server/stremio-cache # if remove the cache
 
 * ./start.sh
 
 
-Add the Addon:
-https:// <cloud-url> /local-addon/manifest.json
+## Add the Addon:
+* https:// <cloud-url> /local-addon/manifest.json
