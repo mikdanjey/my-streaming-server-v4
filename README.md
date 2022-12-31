@@ -13,4 +13,11 @@ Install Nodejs 16.x LTS
 
 * chmod +x start.sh
 
+
+
+* nano /home/ubuntu/.stremio-server/server-settings.json
+* rm -rf /home/ubuntu/.stremio-server/stremio-cache # if remove the cache
+
 * ./start.sh
+
+
