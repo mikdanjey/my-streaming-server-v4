@@ -1,6 +1,6 @@
 # stremio-streaming-server-v4
 
-[git clone https://github.com/mikdanjey/stremio-streaming-server-v4.git stremio-streaming-server-v4](https://github.com/mikdanjey/my-streaming-server-v4.git)
+git clone https://github.com/mikdanjey/my-streaming-server-v4.git my-streaming-server-v4
 
 ## Step up target on ubuntu
 
